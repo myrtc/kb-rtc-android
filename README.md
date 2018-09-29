@@ -102,6 +102,8 @@ B) 通过 [https://github.com/asLody/VirtualApp](https://github.com/asLody/Virtu
 ##### 10. 使用 Agora 设置的 setLocalVideo/setupRemotVideo 视频是黑的
 目前这两个 API 不支持自己 new SurfaceView 或者  xml 配置的 SurfaceView，需要找到 SDK 对应的创建渲染视图的方法。
 
+##### 11. > Could not find method google() for arguments [] on repository container.
+Gradle 以及 gradle-wrapper 需要更新
 
 
 
